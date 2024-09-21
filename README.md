@@ -2,7 +2,6 @@
 
 This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-
 ## Table of contents
 
   - [The challenge](#the-challenge)
@@ -24,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Sumta4real/BlogPreviewCard)
+- Solution URL: (https://github.com/Sumta4real/four-card-section-page)
 - Live Site URL: (https://blog-preview-card-ashen.vercel.app/)
 
 ### Built with
