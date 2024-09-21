@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Sumta4real/four-card-section-page)
-- Live Site URL: (https://blog-preview-card-ashen.vercel.app/)
+- Live Site URL: (https://four-card-section-page.vercel.app/)
 
 ### Built with
 
@@ -35,7 +35,7 @@ Users should be able to:
 
 ### What I learned
 
-This project reinforces my knowledge of CSS flex and interactivity. 
+This project reinforces my knowledge of CSS grid and use of media queries. 
 
 ## Author
 
