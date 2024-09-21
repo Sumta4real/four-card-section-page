@@ -15,6 +15,7 @@ body{
     background-color:hsl(0, 0%, 98%);
     font-size: 15px;
     font-weight: 200;
+    padding: 2rem 2.5rem;
 }
 .container{
     display: grid;
